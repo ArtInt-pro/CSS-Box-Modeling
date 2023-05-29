@@ -1,0 +1,16 @@
+.box {
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  border: 30px solid #00B2FF;
+  padding: 20px;
+}
+
+.content {
+  background-color: #FF4D00;
+  height: 260px;
+  width: 260px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
